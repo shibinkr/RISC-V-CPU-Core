@@ -1,0 +1,1 @@
+This chapter introduces you to basic circuit design in the **Makerchip IDE**, laying the groundwork for understanding core digital logic concepts and demonstrating how to implement them using **TL-Verilog** within the Makerchip environment.
